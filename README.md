@@ -1,5 +1,8 @@
 # Frontend Mentor - Easybank landing page
 
+https://easybank-priyams-frontend-mentor.netlify.app/
+☝️ Click on the above link to visit my easybank landing page
+
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
